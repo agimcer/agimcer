@@ -37,7 +37,7 @@ Desarrollador de **EasyML**, una librería interactiva en Python y aplicación w
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Andrés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agimcer&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Andrés" />
 </p>
 
 <p align="center">
