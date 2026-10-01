@@ -14,7 +14,6 @@
 - ☁️ Actualmente cursando el Máster en Big Data y Cloud.
 - 💼 Experiencia como Data Engineering Intern en **GFT**, desarrollando modelos de ML y plataformas analíticas internas.
 - 🧠 Foco técnico: Machine Learning, Clustering, PCA, Regresión, Clasificación y Explainable AI (SHAP).
-- 🏋️‍♂️ Fuera de la terminal: Entrenamientos de fuerza (rutinas push-pull-legs), fan del cine de misterio y thriller español, y jugador de FIFA en PS4.
 
 ## 💻 Stack Tecnológico y Herramientas
 
